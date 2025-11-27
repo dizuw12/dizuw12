@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Mam na imię Kamil mam 20 lat</p>
+<p align="left">Mam na imię Kamil mam 20 lat uczę się na FullStackDevelopera naukę rozpoczałem na poczatku listopada 2025 roku </p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Student Informatyki<br>📚 Obecnie uczę się c++</p>
+<p align="left">✨ Student Informatyki<br>📚 Obecnie uczę się c#,.NET,Angular/p>
 
 ###
 
@@ -31,9 +31,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=rangular" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
